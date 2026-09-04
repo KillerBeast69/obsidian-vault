@@ -1,0 +1,1 @@
+to apply a compound [[procedure]] to [[arguments]], evaluate the body of the [[procedure]] with each formal parameter replaced by the corresponding [[argument]]

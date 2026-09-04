@@ -1,0 +1,3 @@
+- evaluate the subexpression of the [[combinations]]
+- apply [[operator]] to the [[operands]]
+- recursive in nature [[recursion]]

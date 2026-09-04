@@ -1,0 +1,3 @@
+- numbers and arithmetic operations are primitive [[data]] and [[procedures]]
+- nesting of [[combinations]] provides a means of combining operations
+- definitions that associate names with values provide a limited means of [[abstraction]]

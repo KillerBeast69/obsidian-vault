@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "6edb8552de05cb63",
+    "type": "split",
+    "children": [
+      {
+        "id": "13659a7ad4f640b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "653c73e5704e2df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - source material/books/structure and interpretation of computer programs/Building abstractions with procedures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building abstractions with procedures"
+            }
+          },
+          {
+            "id": "a9f7f2adf4125b87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9154b59b4b8a2c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e4ca2c829c32338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f1640c713d522f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b6bf8423414d38c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#deepwork",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0baeefe0250cdb83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1ce8c5ac38570dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "da87a6e4292de8fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35a2d1ac4440853f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8b4ad15829e0d59f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "711a8da9c8769169",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "83829e895bcceda1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7de3ba4ad887016d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "74f1640c713d522f",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "github",
+    "6 - zettlekastem/the substirution model for procedure application.md",
+    "6 - zettlekastem/procedures.md",
+    "2 - source material/books/structure and interpretation of computer programs/Building abstractions with procedures.md",
+    "6 - zettlekastem/compound procedures.md",
+    "6 - zettlekastem/expressions.md",
+    "6 - zettlekastem/evaluating combinations.md",
+    "6 - zettlekastem/naming and the environment.md",
+    "6 - zettlekastem/programming.md",
+    "6 - zettlekastem/lisp.md",
+    "6 - zettlekastem/computational Process.md",
+    "6 - zettlekastem/john Mccarthy.md",
+    "6 - zettlekastem/data.md",
+    "6 - zettlekastem/computationalprocess.md",
+    "6 - zettlekastem/john locke.md",
+    "2 - source material/books/structure and interpretation of computer programs",
+    "6 - zettlekastem/Untitled.md",
+    "6 - zettlekastem/2026-08-28.md",
+    "2 - source material/videos/MIT PhD taught me to unlock my brain’s “Sage Mode” - Deep Work (Full Summary).md",
+    "6 - zettlekastem/delayedgratification.md",
+    "6 - zettlekastem/dailytodo.md",
+    "6 - zettlekastem/chill.md",
+    "6 - zettlekastem/clarity.md",
+    "6 - zettlekastem/boredom.md",
+    "6 - zettlekastem/deepritual.md",
+    "6 - zettlekastem/morningroutine.md",
+    "6 - zettlekastem/shorttermgoals.md",
+    "2 - source material/other/batman_dnd.png",
+    "1 - rough notes/New shortcut.lnk",
+    "1 - rough notes/batman_dnd.png",
+    "batman_dnd.png",
+    "Untitled.canvas",
+    "Pasted image 20260827110250.png",
+    "1 - rough notes/art",
+    "6 - zettlekastem",
+    "5 - templates",
+    "4 - indexes",
+    "3 - tags",
+    "2 - source material/videos",
+    "2 - source material/podcast"
+  ]
+}

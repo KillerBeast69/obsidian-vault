@@ -1,0 +1,3 @@
+- abstract things that inhibit computers
+- process manipulate other abstract things called [[data]]
+- evaluation of process is directed by a patterns of rules called a [[program]]
