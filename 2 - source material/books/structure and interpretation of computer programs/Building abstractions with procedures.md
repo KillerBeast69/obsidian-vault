@@ -21,8 +21,16 @@ acts of mind exerting power over simple ideas [[john locke]] [[concerning human 
 	[[compound procedures]]
 
 [[procedures]]
-	[[the substirution model for procedure application]]
+	[[the substitution model for procedure application]]
 	
+[[applicative order vs normal order]]
+
+test commit
+
+test commit 123
+
+test commit 456
+
 
 ## References
 
