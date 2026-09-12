@@ -7,6 +7,8 @@ Tags:[[event]] [[kafka]]
 
 # what is kafka??
 
+used in problems such as - streaming, e commerce / delivery, payments / banking, iot sensors, etc.
+
 it is basically a message broker
 now what does that mean??
 
